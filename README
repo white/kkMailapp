@@ -1,0 +1,7 @@
+It could be nice to have a MacRuby plugin for Mail.app,
+so you can put all the login into easy Ruby file.  However,
+it does not work because Mail.app is not compiled GC 
+compatible, while MacRuby is.  I don't have any good idea 
+how to fix that, yet.
+
+--white@
