@@ -1,0 +1,370 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 520}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 97}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	1F0A278D0F522D0E00890081 /* kkMailapp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = kkMailapp;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	1F0A279A0F522D2D00890081 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1F0A279B0F522D2D00890081 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1F0A27A30F522D8500890081 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/white/Desktop/kkMailapp/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1F0A27A40F522D8500890081 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 97;
+		vrLoc = 0;
+	};
+	1F0A27A80F522D8500890081 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DE339F60D74FCDD00ADB6EE /* kkMailappMain.rb */;
+		name = "rb_main.rb: 13";
+		rLen = 0;
+		rLoc = 138;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	1F0A27F50F52383700890081 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* kkMailappBundle.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	1F271A320F9FB54100D9964A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F62F2950F5259C100860FD0 /* kkMailappBundle.h */;
+		name = "kkMailappBundle.h: 11";
+		rLen = 0;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 0;
+	};
+	1F62F2950F5259C100860FD0 /* kkMailappBundle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 497}}";
+			sepNavSelRange = "{202, 0}";
+			sepNavVisRange = "{0, 309}";
+		};
+	};
+	1F62F2AF0F525A2B00860FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F62F2950F5259C100860FD0 /* kkMailappBundle.h */;
+		name = "kkMailappBundle.h: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	1F62F2B70F525A6B00860FD0 /* MVMailBundle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 497}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{0, 536}";
+		};
+	};
+	1F62F2C60F525BD500860FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F62F2B70F525A6B00860FD0 /* MVMailBundle.h */;
+		name = "MVMailBundle.h: 11";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 0;
+	};
+	1F62F2C90F525BD500860FD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F62F2B70F525A6B00860FD0 /* MVMailBundle.h */;
+		name = "MVMailBundle.h: 11";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 0;
+	};
+	1F62F3590F527C5C00860FD0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = /Users/white/Desktop/kkMailapp/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1F7C02960FA3C2D300DB0BA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* kkMailappBundle.m */;
+		name = "kkMailappBundle.m: 15";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 0;
+	};
+	1F8BA3200F9FC1B200D37F03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* kkMailappBundle.m */;
+		name = "kkMailappBundle.m: 15";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1FA0A4A10F539E20001D8BE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 97;
+		vrLoc = 0;
+	};
+	1FA90A1F0F53C71000EB6E4D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DE339F60D74FCDD00ADB6EE /* kkMailappMain.rb */;
+		name = "kkMailappMain.rb: 19";
+		rLen = 0;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1F0A278D0F522D0E00890081 /* kkMailapp */;
+		activeTarget = 8D1107260486CEB800E47090 /* kkMailapp */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* kkMailapp */,
+		);
+		codeSenseManager = 1F0A279B0F522D2D00890081 /* Code sense */;
+		executables = (
+			1F0A278D0F522D0E00890081 /* kkMailapp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					802.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					915,
+					268,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					881,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1007,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					933,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 262390455;
+			PBXWorkspaceStateSaveDate = 262390455;
+		};
+		perUserProjectItems = {
+			1F0A27A30F522D8500890081 /* PlistBookmark */ = 1F0A27A30F522D8500890081 /* PlistBookmark */;
+			1F0A27A40F522D8500890081 /* PBXTextBookmark */ = 1F0A27A40F522D8500890081 /* PBXTextBookmark */;
+			1F0A27A80F522D8500890081 /* PBXTextBookmark */ = 1F0A27A80F522D8500890081 /* PBXTextBookmark */;
+			1F0A27F50F52383700890081 /* PBXTextBookmark */ = 1F0A27F50F52383700890081 /* PBXTextBookmark */;
+			1F271A320F9FB54100D9964A /* PBXTextBookmark */ = 1F271A320F9FB54100D9964A /* PBXTextBookmark */;
+			1F62F2AF0F525A2B00860FD0 /* PBXTextBookmark */ = 1F62F2AF0F525A2B00860FD0 /* PBXTextBookmark */;
+			1F62F2C60F525BD500860FD0 /* PBXTextBookmark */ = 1F62F2C60F525BD500860FD0 /* PBXTextBookmark */;
+			1F62F2C90F525BD500860FD0 /* PBXTextBookmark */ = 1F62F2C90F525BD500860FD0 /* PBXTextBookmark */;
+			1F62F3590F527C5C00860FD0 /* PlistBookmark */ = 1F62F3590F527C5C00860FD0 /* PlistBookmark */;
+			1F7C02960FA3C2D300DB0BA3 /* PBXTextBookmark */ = 1F7C02960FA3C2D300DB0BA3 /* PBXTextBookmark */;
+			1F8BA3200F9FC1B200D37F03 /* PBXTextBookmark */ = 1F8BA3200F9FC1B200D37F03 /* PBXTextBookmark */;
+			1FA0A4A10F539E20001D8BE5 /* PBXTextBookmark */ = 1FA0A4A10F539E20001D8BE5 /* PBXTextBookmark */;
+			1FA90A1F0F53C71000EB6E4D /* PBXTextBookmark */ = 1FA90A1F0F53C71000EB6E4D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1F0A279A0F522D2D00890081 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* kkMailappBundle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 728}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{0, 581}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	4DE339F60D74FCDD00ADB6EE /* kkMailappMain.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 497}}";
+			sepNavSelRange = "{434, 0}";
+			sepNavVisRange = "{0, 511}";
+			sepNavWindowFrame = "{{231, 270}, {750, 558}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* kkMailapp */ = {
+		activeExec = 0;
+		executables = (
+			1F0A278D0F522D0E00890081 /* kkMailapp */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+}
